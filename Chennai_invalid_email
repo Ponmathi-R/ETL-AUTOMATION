@@ -1,0 +1,6 @@
+﻿Student_ID,Name,Email,Phone,Course,Fee_Paid,City,Enrolled_Date,Email_Valid,Phone_Valid
+STU1001,Manoj K,,9876543210,Python,TRUE,Chennai,2025-05-23,FALSE,TRUE
+STU1014,Lakshmi,,8811223344,Data Science,TRUE,Chennai,2025-03-07,FALSE,TRUE
+STU1027,Ramesh M,,7878787878,Python,TRUE,Chennai,2025-03-01,FALSE,TRUE
+STU1032,Swetha L,,,Data Science,TRUE,Chennai,2025-05-26,FALSE,FALSE
+STU1047,Ganesh P,,7565656565,Python,TRUE,Chennai,2025-06-27,FALSE,TRUE
